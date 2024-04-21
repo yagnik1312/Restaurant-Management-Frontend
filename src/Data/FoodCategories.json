@@ -1,0 +1,20 @@
+{
+  "Categories": [
+    {
+      "Id": 1,
+      "Name": "South Indian"
+    },
+    {
+      "Id": 2,
+      "Name": "Punjabi"
+    },
+    {
+      "Id": 3,
+      "Name": "Chinese"
+    },
+    {
+      "Id": 4,
+      "Name": "Mexican"
+    }
+  ]
+}

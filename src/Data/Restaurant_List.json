@@ -1,0 +1,60 @@
+
+ 
+ {
+    "Restaurants": [
+      {
+        "restaurantId": 1,
+        "restaurantName": "ABC",
+        "description": "This is the best Veg Restaurant in Ahmedabad",
+        "address": "ahmedabad , 123",
+        "category": "Veg",
+        "rating": 4.5,
+        "imgUrl": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/3/p/e/p33320-15883975915ead06174e554.jpg?tr=tr:n-large"
+      },
+      {
+        "restaurantId": 2,
+        "restaurantName": "BCD",
+        "description": "This is the best Veg Restaurant in Rajkot",
+        "address": "Rajkot , 123",
+        "category": "Veg",
+        "rating": 4.6,
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJG829yflNT4ZL18aGofHC6vxnE5V-KhDCA&usqp=CAU"
+      },
+      {
+        "restaurantId": 3,
+        "restaurantName": "CDE",
+        "description": "This is the best Non Veg Restaurant in Surat",
+        "address": "Surat , 123",
+        "category": "Non Veg",
+        "rating": 4.1,
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3UepEtR1PMhwwGEC_a9lfPw-fOgJUYsPBhA&usqp=CAU"
+      },
+      {
+        "restaurantId": 4,
+        "restaurantName": "DEF",
+        "description": "This is the best Restaurant in Botad",
+        "address": "Botad , 123",
+        "category": "Both",
+        "rating": 4.1,
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPgkn9Wtw7LDkYS9_uHPvjFjR5MujBsQU6w&usqp=CAU"
+      },
+      {
+        "restaurantId": 5,
+        "restaurantName": "EFG",
+        "description": "This is the best Veg Restaurant in Bhavnagar",
+        "address": "Bhavnagar , 123",
+        "category": "Veg",
+        "rating": 3.5,
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsXCu8kp5Ik5NmU-dw3vKPkKGL9wiNvsH3A&usqp=CAU"
+      },
+      {
+        "restaurantId": 6,
+        "restaurantName": "FGH",
+        "description": "This is the best Veg Restaurant in Junagadh",
+        "address": "Junagadh , 123",
+        "category": "Veg",
+        "rating": 3.5,
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfCEhES4Pr3HUhJwCdIhgTh6P9tr0MTYSJFw&usqp=CAU"
+      }
+    ]
+  }

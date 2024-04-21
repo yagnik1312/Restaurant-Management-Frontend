@@ -1,0 +1,145 @@
+{
+  "Foods": {
+    "1": [
+      {
+        "FoodId": 1,
+        "FoodCategoryId":1,
+        "FoodName": "Regional Dosa Platter",
+        "FoodPrice": 430,
+        "FoodDescription": "Mysore Masala Dosa + Andhra Masala Dosa + Bengaluru Masala Dosa",
+        "FoodCategory": "South Indian",
+        "FoodImage": "https://media.istockphoto.com/id/909906350/photo/masala-dosa-south-indian-food.webp?s=612x612&w=is&k=20&c=IcRBPqaTQxMHoEGT00B3fL9hp2pZbWfrwgSY7kJaobk="
+      },
+      {
+        "FoodId": 2,
+        "FoodCategoryId":1,
+        "FoodName": "Jain Regional Dosa Platter",
+        "FoodPrice": 520,
+        "FoodDescription": "Jain Andhra Masala Dosa, Jain Mysore Masala Dosa and Jain Banglore Masala Dosa",
+        "FoodCategory": "South Indian",
+        "FoodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRfpZB0_3qGRT0vx7Jlw662goIgQc9en4esg&usqp=CAU"
+      },
+      {
+        "FoodId": 3,
+        "FoodCategoryId":2,
+        "FoodName": "Tomato Rice",
+        "FoodPrice": 150,
+        "FoodDescription": "Rice With Tomato",
+        "FoodCategory": "Punjabi",
+        "FoodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxVPfrafOmVptkSYl-Q6h2DDu1KBONIPYmSA&usqp=CAU"
+      },
+      {
+        "FoodId": 4,
+        "FoodCategoryId":2,
+        "FoodName": "Lemon Rice",
+        "FoodPrice": 180,
+        "FoodDescription": "Lemon Rice is Amazing",
+        "FoodCategory": "Punjabi",
+        "FoodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRumdRiGZ8jELavPqW5nkoqMazTYonCrXdwnfI4X3qqP1X20DiCBpvNVjor8Yc6c8sTctI&usqp=CAU"
+      },
+      {
+        "FoodId": 5,
+        "FoodCategoryId":2,
+        "FoodName": "Koya Kaju",
+        "FoodPrice": 180,
+        "FoodDescription": "Lemon Rice is Amazing",
+        "FoodCategory": "Punjabi",
+        "FoodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCeb1g7D6qiQi3oL89ZGrDI-i4SS_LW929g5X3Gl9lyNm726IOobuxo0BwoIVxBP64KR4&usqp=CAU"
+      },
+      {
+        "FoodId": 6,
+        "FoodCategoryId":2,
+        "FoodName": "Butter Nan",
+        "FoodPrice": 180,
+        "FoodDescription": "Lemon Rice is Amazing",
+        "FoodCategory": "Punjabi",
+        "FoodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tOcglBIAm4NU73Ln-z0lEAUexy1juP-Ej-kkVI_Ihyev_634nO-UD63DBcpNAMDbqUo&usqp=CAU"
+      },
+      {
+        "FoodId": 7,
+        "FoodCategoryId":2,
+        "FoodName": "Panir Paratha",
+        "FoodPrice": 180,
+        "FoodDescription": "Lemon Rice is Amazing",
+        "FoodCategory": "Punjabi",
+        "FoodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9fE0I5jHgIeIw1I8aPJ0ohKdaKKcSGvebSA&usqp=CAU"
+      }
+    ],
+    "2": [
+      {
+        "FoodId": 8,
+        "FoodCategoryId":2,
+        "FoodName": "Punjabi Thali (No Jain)",
+        "FoodPrice": 360,
+        "FoodDescription": "Sweet + Tawa Butter Roti - 4 or Tandoori Butter Roti - 2 + Sabji (2) + Papad + Dal Fry + Jeera Rice + Salad + Buttermilk",
+        "FoodCategory": "Punjabi",
+        "FoodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKIfu_JBZlfHy-6QU5-uWmsa6IoNmH5ymCxQ&usqp=CAU"
+      },
+      {
+        "FoodId": 9,
+        "FoodCategoryId":2,
+        "FoodName": "Paneer Paratha",
+        "FoodPrice": 120,
+        "FoodDescription": "Served with Garlic Chutney & Curd",
+        "FoodCategory": "Punjabi",
+        "FoodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQiwCs8tmwVYh5cX3qlaCGs1GMaVMjecRjA&usqp=CAU"
+      },
+      {
+        "FoodId": 10,
+        "FoodCategoryId":2,
+        "FoodName": "Paneer Paratha",
+        "FoodPrice": 120,
+        "FoodDescription": "Served with Garlic Chutney & Curd",
+        "FoodCategory": "Punjabi",
+        "FoodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrq8kdgAOjXJKhZxWA5I1co79ZCTa53rFg-Q&usqp=CAU"
+      },
+      {
+        "FoodId": 11,
+        "FoodCategoryId":2,
+        "FoodName": "Paneer Paratha",
+        "FoodPrice": 120,
+        "FoodDescription": "Served with Garlic Chutney & Curd",
+        "FoodCategory": "Punjabi",
+        "FoodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtESFjvzaJpiy4RQvS8n7diWPlQfHSUH9j1w&usqp=CAU"
+      }
+    ],
+    "3": [
+      {
+        "FoodId": 12,
+        "FoodCategoryId":2,
+        "FoodName": "Punjabi Thali (No Jain)",
+        "FoodPrice": 360,
+        "FoodDescription": "Sweet + Tawa Butter Roti - 4 or Tandoori Butter Roti - 2 + Sabji (2) + Papad + Dal Fry + Jeera Rice + Salad + Buttermilk",
+        "FoodCategory": "Punjabi",
+        "FoodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-EW9MPj5KXi9-cFSMdIYfypGmCpL8Wlxug&usqp=CAU"
+      },
+      {
+        "FoodId": 13,
+        "FoodCategoryId":3,
+        "FoodName": "Noodels",
+        "FoodPrice": 120,
+        "FoodDescription": "Served with Garlic Chutney & Curd",
+        "FoodCategory": "Chinese",
+        "FoodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZwZ2tuTvWJXRIRDBjpHM--O-J6sULrMbJA&usqp=CAU"
+      },
+      {
+        "FoodId": 14,
+        "FoodCategoryId":4,
+        "FoodName": "Mexican Sweet",
+        "FoodPrice": 120,
+        "FoodDescription": "Served with Garlic Chutney & Curd",
+        "FoodCategory": "Mexican",
+        "FoodImage": "https://img.delicious.com.au/BeKyn8Dn/del/2022/10/p69-parmesan-crumbed-chicken-schnitzel-fried-eggs-and-apple-and-cabbage-slaw-176385-1.png"
+      },
+      {
+        "FoodId": 15,
+        "FoodCategoryId":2,
+        "FoodName": "Paneer Paratha",
+        "FoodPrice": 120,
+        "FoodDescription": "Served with Garlic Chutney & Curd",
+        "FoodCategory": "Punjabi",
+        "FoodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-KlxeQpjjAC9L8_U6addkj9BvTzmLFxgqmQ&usqp=CAU"
+      }
+    ]
+  }
+}
